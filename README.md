@@ -12,6 +12,7 @@ How the userscript works:
 ## FAQ
 
 **Permissions?**
+
 This userscript requires no particular GreaseMonkey addon permissions. It will only acccess the browser's ClipboardAPI.
 
 **Mozilla's text translator?**
@@ -19,6 +20,7 @@ This userscript requires no particular GreaseMonkey addon permissions. It will o
 Mozilla's [translate tool](https://github.com/mozilla/translate) is a static site that performs all text translation locally using your CPU for inference. It runs in your browser, you can [try it here](https://mozilla.github.io/translate/). It's very good on its own, but with clipboard access it's even better!
 
 **There's all these great LLM models and APIs, why use Mozilla's neural machine translator at all?**
+
 Depending on a translator's work, they may wish not to share the text with third party companies hosting LLM services. It's relatively costly (in time and money) to set up your own local instance of LLaMA just to get translations of text across languages.
 
 Mozilla's Bergamot translator tool runs locally in your browser and produces great results at several languages. It realizes CPU inference at decent page load time and translation speeds.
