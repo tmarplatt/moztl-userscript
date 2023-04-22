@@ -5,6 +5,7 @@
 // @description  Adds some GUI improvements to the client-side translation engine provided by Mozilla
 // @author       tmarplatt
 // @match        https://mozilla.github.io/translate/
+// @license      https://github.com/tmarplatt/moztl-userscript/raw/main/LICENSE
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
